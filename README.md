@@ -15,5 +15,12 @@ http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange
 * CPU: 8-core 64 core architecture, 4-coreCortex-A76 + 4-coreCortex-A55
 * GPU: ARM Mali-G610
 * NPU: 6TOPS AI computing power
+* 4GB/8GB/16GB LPDDR5
+* 8nm process
+* 8K video decoding
+* PCIe2.0 M.2 M-Key slot supports access to NVMe SSD or SATA SSD
+* Wi-Fi5+ BT5.0 with BLE support
 
+---
 
+<img width="600" height="687" alt="image" src="https://github.com/user-attachments/assets/90caad95-3103-4a28-a667-c4f73ec6d57e" />
