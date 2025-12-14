@@ -16,10 +16,12 @@ http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange
 * GPU: ARM Mali-G610
 * NPU: 6TOPS AI computing power
 * 4GB/8GB/16GB LPDDR5
-* 8nm process
 * 8K video decoding
 * PCIe2.0 M.2 M-Key slot supports access to NVMe SSD or SATA SSD
-* Wi-Fi5+ BT5.0 with BLE support
+* Wi-Fi 5+ BT5.0 with BLE support
+* Camera: 2*MIPI 4 Lane
+* Supports Type-C power supply, 5V @ 5A
+* 8nm LP process
 
 ---
 
