@@ -11,6 +11,7 @@ Orange Pi is an open source product brand of Shenzhen Xunlong Software Co., Ltd;
 
 http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5-Pro.html
 
+#### RK3588S
 * CPU: 8-core 64 core architecture, 4-coreCortex-A76 + 4-coreCortex-A55
 * GPU: ARM Mali-G610
 * NPU: 6TOPS AI computing power
