@@ -26,3 +26,9 @@ http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange
 ---
 
 <img width="600" height="687" alt="image" src="https://github.com/user-attachments/assets/90caad95-3103-4a28-a667-c4f73ec6d57e" />
+
+
+---
+### Software Download
+
+https://drive.google.com/drive/folders/1tRllQNM-BDiMDPe_7OTKxxmQiCuQYv01
