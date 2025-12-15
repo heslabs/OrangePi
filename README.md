@@ -5,6 +5,9 @@ http://www.orangepi.org
 
 Orange Pi is an open source product brand of Shenzhen Xunlong Software Co., Ltd; Orange Pi has iterated over 30 products. At present, orange Pi has formed a ...
 
+---
+### ubuntu-rockchip
+https://github.com/Joshua-Riek/ubuntu-rockchip
 
 ---
 ### Orange Pi 5 Pro
